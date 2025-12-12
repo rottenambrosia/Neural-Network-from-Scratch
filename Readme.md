@@ -17,11 +17,11 @@ A neural network framework implemented in Python, supporting various activation 
 ## 📁 Project Structure
 
 project/
-├── utils.py # Neural network classes (Dense, activations, losses, optimizer)
-├── main.py # Training script and model setup
-├── plots/ # plots saved
-└── README.md # Project documentation
-
-The tanh_implementation.py file is still in progress and will be completed in further updates
+├── utils.py # Neural network classes (Dense, activations, losses, optimizer) <br>
+├── main.py # Training script and model setup <br>
+├── plots/ # plots saved <br>
+└── README.md # Project documentation <br>
+<br>
+The tanh_implementation.py file is still in progress and testing systems will be completed in further updates
 
 main.py is a fully functional file and demonstrates the application of the Softmax activation with Adam Optimizer as the optimization.
