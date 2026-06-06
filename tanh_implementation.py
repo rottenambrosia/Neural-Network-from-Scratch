@@ -1,3 +1,8 @@
+# Thunder only happens when it's raining
+# Players only love you when they're playing
+# Say women, they will come and they will go
+# When the rain washes you clean you'll know
+
 import utils
 from utils import *
 import nnfs
